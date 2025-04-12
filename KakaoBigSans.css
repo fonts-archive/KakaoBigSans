@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Kakao Big Sans';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KakaoBigSans/KakaoBigSans-Regular.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/KakaoBigSans/KakaoBigSans-Regular.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/KakaoBigSans/KakaoBigSans-Regular.otf') format('opentype'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/KakaoBigSans/KakaoBigSans-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Kakao Big Sans';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KakaoBigSans/KakaoBigSans-Bold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/KakaoBigSans/KakaoBigSans-Bold.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/KakaoBigSans/KakaoBigSans-Bold.otf') format('opentype'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/KakaoBigSans/KakaoBigSans-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Kakao Big Sans';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KakaoBigSans/KakaoBigSans-ExtraBold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/KakaoBigSans/KakaoBigSans-ExtraBold.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/KakaoBigSans/KakaoBigSans-ExtraBold.otf') format('opentype'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/KakaoBigSans/KakaoBigSans-ExtraBold.ttf') format('truetype');
+}
